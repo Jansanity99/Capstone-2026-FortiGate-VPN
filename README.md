@@ -66,7 +66,7 @@ Implementation of a secure enterprise network with site-to-site VPN, remote acce
     | Port Scan | Nmap | 192.168.10.10 | 192.168.20.0/24 | High volume multi-port connections from single IP |
     | SSH Brute Force | Hydra | 192.168.10.10 | 192.168.20.10:22 | Repeated port 22 connections from single IP |
 
- ## AWS connectivity to Fortigate
+   ## AWS connectivity to Fortigate
 
     <img width="584" height="379" alt="image" src="https://github.com/user-attachments/assets/97e1aaf4-1549-439f-87b9-8a6e19bcb8a1" />
     <img width="1324" height="261" alt="image" src="https://github.com/user-attachments/assets/eaa0606f-e87d-4ae6-ac2c-6b5233bf28a2" />
