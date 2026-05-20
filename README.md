@@ -68,9 +68,6 @@ Implementation of a secure enterprise network with site-to-site VPN, remote acce
 
  ## AWS connectivity to Fortigate
 
-    <img width="1287" height="648" alt="image" src="https://github.com/user-attachments/assets/98dcf6bb-6824-4d38-b574-0ea8af2ae432" />
-    <img width="1322" height="277" alt="image" src="https://github.com/user-attachments/assets/4ab28109-a248-4d0b-9949-adfa182c98fe" />
-
-    ---
-    *Capstone Project 2026 | Cybersecurity Program*
+    <img width="584" height="379" alt="image" src="https://github.com/user-attachments/assets/97e1aaf4-1549-439f-87b9-8a6e19bcb8a1" />
+    <img width="1324" height="261" alt="image" src="https://github.com/user-attachments/assets/eaa0606f-e87d-4ae6-ac2c-6b5233bf28a2" />
 
